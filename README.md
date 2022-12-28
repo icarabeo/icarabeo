@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Isaiah
-- 👀 I’m interested in developing software
-- 🌱 I’m currently learning React codepsace
-- 💞️ I’m looking to collaborate on open source projects
+- 🚀 I’m interested in developing software
+- 💡 I’m currently learning React codepsace
+- 💻 I’m looking to collaborate on open source projects
 - 📫 How to reach me: Email - icarabeo@outlook.com | LinkedIn - icarabeo
 
 <!---
